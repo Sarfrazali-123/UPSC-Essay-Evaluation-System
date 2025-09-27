@@ -1,0 +1,4 @@
+streamlit
+langgraph # Adjust this version if you know the correct one
+together # Adjust the version based on the latest package available
+python-dotenv
